@@ -115,8 +115,7 @@
             "source": {
                "type": "Git",
                "git": {
-                  "uri": "${GIT_URI}",
-                  "ref": "${GIT_REF}"
+                  "uri": "https://github.com/obartosiewicz/openshift3mlbparks.git"
                }
             },
             "strategy": {
